@@ -1,0 +1,33 @@
+body{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+figure{
+    background: white;
+    width: 95%;
+    height: 100%;
+    border-radius: 1px;
+}
+.italic {
+   font-style: italic; 
+    text-align: justify;
+    line-height: 1.5;
+    padding-inline-start: 40px;
+}
+p.bold {
+    font-weight: bold;
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+}
+.content{
+    width: 30%; 
+    margin: auto;
+}
+
+ul li{
+    line-height: 1.5;
+}
+ul {
+    text-align: left;
+}
